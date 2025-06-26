@@ -1,0 +1,19 @@
+num=1+1.0
+Result = 2.0
+
+Python automatically converted the result in float type and gave 2.0.
+This is implicit conversion as we did not have to ask it to convert to float.
+This could be dangerous as it could give unexpected result.
+
+num=1+int(1.0)
+Result = 2
+
+Here, we have explicitely converted the float value 1.0 into integer.
+
+Developer should be careful in explicit conversion-
+1. Converting float to int results in loss of decimal point value.
+2. Large data type if conversted to smaller data type results in loss of data as numbers wil be truncated.
+
+
+
+
