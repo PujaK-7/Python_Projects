@@ -1,0 +1,6 @@
+https://google.github.io/styleguide/pyguide.html
+
+Python Coding Standartds
+snake_case
+explanation of code in comments
+meaningful variable name

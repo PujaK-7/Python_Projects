@@ -1,0 +1,16 @@
+Variables are Identifiers.
+Name, Type, Value, Address, Lifetime, Scope.
+
+
+
+Arithmetic Operators- +, -, *, /, %, //
+// indicates integer division. 11//2= 5
+
+Assignment Operators- =, +=, -=, *=, /=, %=
+
+Relational/Comparison Operators- ==, <, >, <=, >=, !=
+
+Logic Operators- AND, OR, NOT
+
+Operator Precedence
+

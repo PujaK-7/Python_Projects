@@ -1,0 +1,10 @@
+Python is dynamically typed. many other languages are statically typed.
+Numeric- int, long, complex
+Numeric with decimal- float
+Alphanumeric- String
+Boolean- boolean
+
+print(type(7))
+print(type("Hello Puja"))
+print(type(true))
+print(type(7.0))
